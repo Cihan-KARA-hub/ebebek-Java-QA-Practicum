@@ -1,0 +1,17 @@
+package employee;
+
+
+public class Employee {
+
+
+ 
+
+    public static void main(String[] args) 
+    {
+   root p = new root();
+       
+   p.root("cihan", 2000, 50, 2000);
+            System.out.println(p.toString());
+    }
+
+}
