@@ -1,2 +1,2 @@
-kod bloklarım txt olarak de mevcuttur.
+kod bloklarım txt olarak da  mevcuttur.
 
