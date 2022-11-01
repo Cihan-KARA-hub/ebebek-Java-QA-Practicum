@@ -1,2 +1,2 @@
 
-
+ jframe ile panel yaptım
